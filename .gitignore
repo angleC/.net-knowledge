@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/Angle.Knowledge/v15
+/Example01/bin/Debug/netcoreapp2.2
+/Example01/obj
+/.vs
