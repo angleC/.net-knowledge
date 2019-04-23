@@ -6,3 +6,5 @@
 /Example01/bin/Debug/netcoreapp2.2
 /Example01/obj
 /.vs
+/Example02/bin/Debug
+/Example02/obj/Debug
