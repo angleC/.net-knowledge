@@ -8,3 +8,6 @@
 /.vs
 /Example02/bin/Debug
 /Example02/obj/Debug
+/Example03/bin/Debug/netcoreapp2.2
+/Example03/obj
+/packages/System.Text.Encoding.CodePages.4.5.1
